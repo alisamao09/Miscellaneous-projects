@@ -17,3 +17,4 @@ lcd.print("h2o");
 lcd.print(val);
 lcd.print("   ");
 delay(200);}
+# Reference: https://create.arduino.cc/projecthub/m_karim02/arduino-sound-sensor-module-sound-sensor-with-arduino-code-868d55

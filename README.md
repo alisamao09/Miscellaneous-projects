@@ -13,7 +13,7 @@ Design with inherited data
 * Re-created Manuel Barbadillo's artwork Typical Output by coding in Python component in Grasshopper
 ![](https://github.com/alisamao09/Miscellaneous-projects/blob/main/images/artwork.png)
 
-# [Covid-19 What’s all the fuss?](https://github.com/alisamao09/ARC-480)
+## [Covid-19 What’s all the fuss?](https://github.com/alisamao09/ARC-480)
 * Demonstrated patterns between COVID-19 case counts and the ongoing discussion of the virus on social media
 * Scraped key phrases in tweets regarding COVID by ScrapeStorm, filtering them by tweet location (Toronto) and months (March to December)
 * Found the most frequent words by calculating word frequencies using WriteWords
